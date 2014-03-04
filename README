@@ -1,0 +1,12 @@
+
+
+HuankuDirector is used to manage xiaoku(day|hour) change index operations.
+
+Features:
+1) huanku by level
+2) two levels parallel execute: warehouse exec & instances in one warehouse
+3) highly scale configure
+4) extension with Analyzer, which can record things you care very simply 
+5) extension AlarmSender, notify simply
+
+
